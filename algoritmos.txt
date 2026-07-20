@@ -1,0 +1,16 @@
+o código deve ser visivel pelo console.log
+
+1 - Fazendo uso de template string, e duas variaveis, 
+(nome, sobrenome) escreva no console seu nome completo
+
+2 - usando pelo menos uma variavel para o ano de nascimento, 
+exiba sua idade
+
+3 - dado um numero qualquer, que seja recebido na variavel, 
+imprima se o numero é par ou impar 
+
+4 - dado um valor de um produto, quero que seja informado o 
+valor desse produto com 10% desconto
+
+
+
