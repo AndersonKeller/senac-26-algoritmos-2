@@ -1,0 +1,5 @@
+- USANDO O LOOP FOR
+
+Receber uma palavra qualquer em uma variavel,
+- deve retornar a palavra invertida
+- usando FOR
