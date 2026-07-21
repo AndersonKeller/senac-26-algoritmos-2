@@ -1,0 +1,24 @@
+PARTE 2
+
+- usando prompt e alert
+
+1 - quero um algoritmo que receba o preço de um produto, e o percentual de desconto
+ - exiba ao final, o valor do desconto
+
+2 - um algoritmo que calcula o IMC
+ - consultar formula do IMC
+ - exibir o resultado de acordo com o IMC
+ Categoria de peso
+(IMC)
+Normal* (≥ 18,5 e < 25)
+
+Sobrepeso (≥ 25 e < 30)
+
+Obesos: Classe I (≥ 30 e < 35)
+
+Obesos: Classe II (≥ 35 e < 40)
+
+Obesos: classe III (≥ 40)
+
+3 - faça um algoritmo que leia um numero, exiba se ele é par ou impar, 
+ou multiplo de 3 ou multiplo de 5 ou de nenhum deles. ou todos.
